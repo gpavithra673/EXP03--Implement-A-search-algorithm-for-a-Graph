@@ -54,6 +54,7 @@ To ImplementA * Search algorithm for a Graph using Python 3.
 
 
 ## PROGRAM:
+```
 python
 from collections import defaultdict
 H_dist ={}
@@ -158,7 +159,7 @@ print(H_dist)
 Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
-
+```
 ### Sample Graph:
 ![image](https://github.com/Aashima02/AI03-Implement-A-search-algorithm-for-a-Graph/assets/93427086/94b672cf-2050-4c96-a6f4-6014daa5eae8)
 
